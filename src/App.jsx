@@ -18,7 +18,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/product/:id" element={<Product />} />
         <Route path="/check" element={<Check />} /> 
-        {/* conflict ke lie CheckBranch */}
+        {/* conflict ke lie CheckBranch  jflasijfls adfilasjdf*/}
 
       </Routes>
     </Router>
